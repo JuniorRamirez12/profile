@@ -1,0 +1,8 @@
+body {
+    background-color: green;
+}
+
+body{
+    background-image: url(http://media.giphy.com/media/vRu1iwFoU5r44/giphy.gif);
+    background-size: cover;
+}

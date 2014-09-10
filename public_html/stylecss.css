@@ -1,4 +1,8 @@
 body {
-    background-color: red;
+    background-color: black;
 }
 
+body{
+    background-image: url(http://images.cdn.bigcartel.com/bigcartel/theme_images/7972513/max_h-1000+max_w-1000/LOGO_NO-BACKROUND.gif);
+    background-size: cover;
+}
